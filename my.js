@@ -1,4 +1,4 @@
-let mobileMenu = document.querySelector('./menu');
+let mobileMenu = document.querySelector('.menu');
 let burgerMenu = document.querySelector('.header_menu_btn');
 let closeMenu = document.querySelector('.menu_close');
 let footer = document.querySelector('.footer');
